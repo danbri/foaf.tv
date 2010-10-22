@@ -1,6 +1,25 @@
 #!/usr/bin/env ruby -rubygems
 
 require 'json'
+require 'rdf' # http://rdf.rubyforge.org/
+
+require 'rdf/ntriples'
+require 'rdf/raptor'
+
+
+# puts RDF::Raptor.available?         #=> true
+# puts RDF::Raptor.version            #=> "1.4.21"
+
+def getRDF(u)
+  begin 
+  g = RDF::Graph.load(u)
+  puts "# Loading RDF: #{u} Size: #{u.size}"
+  return g
+  rescue
+    puts "# Parsing barfed."
+  end
+end
+
 $stdout.sync = true
 
 # Takes a list of BBC-related things and gets some Wikipedia URLs
@@ -15,6 +34,9 @@ wiki_qs = "curl -s -e http://danbri.org/  'http://ajax.googleapis.com/ajax/servi
 # results: {"responseData": {"results":[{"GsearchResultClass":"GwebSearch","unescapedUrl": ...
 
 
+dc = RDF::Vocabulary.new("http://purl.org/dc/elements/1.1/")
+foaf = RDF::Vocabulary.new("http://xmlns.com/foaf/0.1/")
+
 f=File.open('lyrics-list.txt').read
 f.each do |item|
   item.chomp!
@@ -25,19 +47,28 @@ f.each do |item|
   esc.gsub!(/&/,'')
   esc.gsub!(/'/,'')
 
-  puts item
+  puts "# #{item}"
 
   # Find Wikipedia links
   # Later we can find dbpedia.org links for metadata
   #
   wres = ` #{ wiki_qs.gsub(/zzzzz/, esc) } ` # umm
+
+
   wiki_feeling_lucky = JSON.parse(wres)['responseData']['results'][0]['unescapedUrl']
   wiki_feeling_lucky =~ /wikipedia\.org\/wiki\/(.*)/
   wid = $1
-  puts "#{wid}\t#{  wiki_feeling_lucky}\tWiki\thttp://dbpedia.org/resource/#{wid}";
+  w = "http://dbpedia.org/data/#{wid}.rdf"
+  puts "# #{wid}\t#{  wiki_feeling_lucky}\t#{w}";
 
-
-
+  g = getRDF(w)
+  begin
+    i = g.query( [nil, foaf.depicts, nil ]) do |img, p, res|
+      puts "Image: #{img}"
+    end
+  rescue
+    puts "# no rdf."
+  end
   # Find BBC /programmes/ links
   # (later, we can append .rdf to get metadata)
   #
@@ -45,10 +76,21 @@ f.each do |item|
   bbc_feeling_lucky = JSON.parse(bres)['responseData']['results'][0]['unescapedUrl']
   bbc_feeling_lucky =~ /bbc\.co\.uk\/programmes\/(.*)/
   bid = $1
-  puts "Programmes:\t#{  bbc_feeling_lucky}\tBBC\thttp://www.bbc.co.uk/programmes/#{bid}.rdf";
-  
+  b = "http://www.bbc.co.uk/programmes/#{bid}.rdf"
+  puts "Programmes:\t#{  bbc_feeling_lucky}\t#{b}";
 
+  g= getRDF(b)
+  begin
+    i = g.query( [nil, foaf.depicts, nil ]) do |img, p, res|
+      puts "Image: #{img}"
+    end
+  rescue
+    puts "# no rdf."
+  end
   
-
+  puts   
   puts 
 end
+
+
+  # http://stackoverflow.com/questions/931548/the-state-of-rdf-in-ruby
