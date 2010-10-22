@@ -24,6 +24,8 @@ f.each do |item|
   esc.gsub!(/&/,'')
   esc.gsub!(/'/,'')
 
+  puts item
+
   # Find Wikipedia links
   # Later we can find dbpedia.org links for metadata
   #
@@ -38,5 +40,5 @@ f.each do |item|
   bbc_feeling_lucky = JSON.parse(bres)['responseData']['results'][0]['unescapedUrl']
   puts "Programmes:\t#{  bbc_feeling_lucky}\t# Wiki ";
 
-
+  puts 
 end
