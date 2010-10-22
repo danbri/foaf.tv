@@ -1,0 +1,15 @@
+[09:48]  <danbri> so i had an idea for a demo
+[09:48]  <nevali> yeah?
+[09:48]  <danbri> take the 'proud of the bbc' video
+[09:48]  <danbri> http://mitchbenn.com/
+[09:49]  <danbri> slap it in html5, and get a timeline in json with metadata for each show / actor mentioned
+[09:49]  <danbri> and throw an image (playable? clickable?) into the page for each show mentioned, w/ random positioning a la http://foaf.tv/notube/life/moments.svg
+[09:50]  <libby> go on then! :D
+[09:50]  <danbri> well i asked for timeline/lyrics
+[09:50]  <libby> it's a great idea
+[09:50]  <danbri> i'm getting to stage w/ alex's sjs stuff where i might be happier doing .js apps than before
+[09:51]  <nevali> be doable
+[09:52]  <nevali> there's no reason why subtitles can't be hyperlinked, either...
+[09:52]  <danbri> so we could start gathering raw materials at least
+[09:52]  <danbri> i asked on the twitter for lyrics
+
