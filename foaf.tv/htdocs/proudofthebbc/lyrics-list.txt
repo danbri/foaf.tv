@@ -2,7 +2,7 @@
 
 Newsround
 Newsnight
-* iPlayer website
+#iPlayer website
 Tony Arthur
 Brian Cant
 Spooks & Adam
@@ -11,9 +11,9 @@ Postman Pat
 Black Adder
 Hancock 
 Yes Minister
-Later With Jools Holand
+Later With Jools Holland
 Pride and Prejudice
-Hitch Hikers' GUide
+Hitch Hikers' Guide
 World Service
 Stuart Lee
 Mr. Benn
@@ -74,8 +74,7 @@ Keeping Up Appearances
 Outnumbered
 Miranda
 Who Do You Think You Are
-Kirsty
-Wark
+Kirsty Wark
 Paxman
 Parkinson
 Wogan
@@ -91,12 +90,13 @@ Strictly Come Dancing
 League of Gentlemen
 Hairy Bikers
 Being Human
-InThe Night Garden
+In The Night Garden
 Have I Got News For You
 You & Me
 Me & You
 Monty Python
 Doctor Who
+
 Top Gear
 Merlin
 Ivor The Engine
@@ -104,8 +104,7 @@ Watchdog
 Wimbledon 
 Springwatch
 Formula One
-Blue Peter
-Swap Shop
+Blue Peter Swap Shop
 Five Live
 Top Of The Pops
 Trumpton
@@ -118,9 +117,9 @@ The Day Today
 Sorry, I Haven't A Clue
 Not The Nine O'Clock News
 Nationwide
-MR. Men
+Mr. Men
 
-Doctor Who Again
+# Doctor Who Again
 
 Eastenders
 Bottom
@@ -137,7 +136,8 @@ Radio Active
 Howard's Way
 Jeremy Hardy
 Final Score
-# Everything on BBC4
+# Everything on 
+BBC4
 Only Fools and Horses
 Sky At Night
 Shooting Stars
