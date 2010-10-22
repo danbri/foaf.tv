@@ -1,0 +1,969 @@
+# Newsround
+# Newsround	http://en.wikipedia.org/wiki/Newsround	http://dbpedia.org/data/Newsround.rdf
+# Loading RDF: http://dbpedia.org/data/Newsround.rdf Size: 37
+Programmes:	http://www.bbc.co.uk/programmes/b00r0znq	http://www.bbc.co.uk/programmes/b00r0znq.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00r0znq.rdf Size: 44
+
+
+# Newsnight
+# Newsnight	http://en.wikipedia.org/wiki/Newsnight	http://dbpedia.org/data/Newsnight.rdf
+# Loading RDF: http://dbpedia.org/data/Newsnight.rdf Size: 37
+Programmes:	http://www.bbc.co.uk/programmes/b006mk25	http://www.bbc.co.uk/programmes/b006mk25.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b006mk25.rdf Size: 44
+
+
+# Toni Arthur
+# Toni_Arthur	http://en.wikipedia.org/wiki/Toni_Arthur	http://dbpedia.org/data/Toni_Arthur.rdf
+# Loading RDF: http://dbpedia.org/data/Toni_Arthur.rdf Size: 39
+Programmes:	http://www.bbc.co.uk/programmes/b00tt3qv	http://www.bbc.co.uk/programmes/b00tt3qv.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00tt3qv.rdf Size: 44
+
+
+# Brian Cant
+# Brian_Cant	http://en.wikipedia.org/wiki/Brian_Cant	http://dbpedia.org/data/Brian_Cant.rdf
+# Loading RDF: http://dbpedia.org/data/Brian_Cant.rdf Size: 38
+Programmes:	http://www.bbc.co.uk/programmes/b00tt3qv	http://www.bbc.co.uk/programmes/b00tt3qv.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00tt3qv.rdf Size: 44
+
+
+# Spooks & Adam
+# Spooks	http://en.wikipedia.org/wiki/Spooks	http://dbpedia.org/data/Spooks.rdf
+# Loading RDF: http://dbpedia.org/data/Spooks.rdf Size: 34
+Programmes:	http://www.bbc.co.uk/programmes/b00fbnh9	http://www.bbc.co.uk/programmes/b00fbnh9.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00fbnh9.rdf Size: 44
+
+
+# AdamAnt
+# Adam_Ant	http://en.wikipedia.org/wiki/Adam_Ant	http://dbpedia.org/data/Adam_Ant.rdf
+# Loading RDF: http://dbpedia.org/data/Adam_Ant.rdf Size: 36
+Programmes:	http://www.bbc.co.uk/programmes/b0074t1n	http://www.bbc.co.uk/programmes/b0074t1n.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b0074t1n.rdf Size: 44
+
+
+# Postman Pat
+# Postman_Pat	http://en.wikipedia.org/wiki/Postman_Pat	http://dbpedia.org/data/Postman_Pat.rdf
+# Loading RDF: http://dbpedia.org/data/Postman_Pat.rdf Size: 39
+Programmes:	http://www.bbc.co.uk/programmes/b00dt2ck	http://www.bbc.co.uk/programmes/b00dt2ck.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00dt2ck.rdf Size: 44
+
+
+# Black Adder
+# Blackadder	http://en.wikipedia.org/wiki/Blackadder	http://dbpedia.org/data/Blackadder.rdf
+# Loading RDF: http://dbpedia.org/data/Blackadder.rdf Size: 38
+Programmes:	http://www.bbc.co.uk/programmes/b00gbjgm	http://www.bbc.co.uk/programmes/b00gbjgm.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00gbjgm.rdf Size: 44
+
+
+# Hancock 
+# Hancock_(film)	http://en.wikipedia.org/wiki/Hancock_(film)	http://dbpedia.org/data/Hancock_(film).rdf
+# Loading RDF: http://dbpedia.org/data/Hancock_(film).rdf Size: 42
+Programmes:	http://www.bbc.co.uk/programmes/b009t2ld	http://www.bbc.co.uk/programmes/b009t2ld.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b009t2ld.rdf Size: 44
+
+
+# Yes Minister
+# Yes_Minister	http://en.wikipedia.org/wiki/Yes_Minister	http://dbpedia.org/data/Yes_Minister.rdf
+# Loading RDF: http://dbpedia.org/data/Yes_Minister.rdf Size: 40
+Programmes:	http://www.bbc.co.uk/programmes/b009v0dc	http://www.bbc.co.uk/programmes/b009v0dc.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b009v0dc.rdf Size: 44
+
+
+# Later With Jools Holland
+# Later..._with_Jools_Holland	http://en.wikipedia.org/wiki/Later..._with_Jools_Holland	http://dbpedia.org/data/Later..._with_Jools_Holland.rdf
+# Loading RDF: http://dbpedia.org/data/Later..._with_Jools_Holland.rdf Size: 55
+Programmes:	http://www.bbc.co.uk/programmes/b00tvd6z	http://www.bbc.co.uk/programmes/b00tvd6z.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00tvd6z.rdf Size: 44
+
+
+# Pride and Prejudice
+# Pride_and_Prejudice	http://en.wikipedia.org/wiki/Pride_and_Prejudice	http://dbpedia.org/data/Pride_and_Prejudice.rdf
+# Loading RDF: http://dbpedia.org/data/Pride_and_Prejudice.rdf Size: 47
+Programmes:	http://www.bbc.co.uk/programmes/p0082kx8	http://www.bbc.co.uk/programmes/p0082kx8.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/p0082kx8.rdf Size: 44
+
+
+# Hitch Hikers' Guide
+# The_Hitchhiker's_Guide_to_the_Galaxy	http://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy	http://dbpedia.org/data/The_Hitchhiker's_Guide_to_the_Galaxy.rdf
+# Loading RDF: http://dbpedia.org/data/The_Hitchhiker's_Guide_to_the_Galaxy.rdf Size: 64
+Programmes:	http://www.bbc.co.uk/programmes/b00sm031	http://www.bbc.co.uk/programmes/b00sm031.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00sm031.rdf Size: 44
+
+
+# World Service
+# BBC_World_Service	http://en.wikipedia.org/wiki/BBC_World_Service	http://dbpedia.org/data/BBC_World_Service.rdf
+# Loading RDF: http://dbpedia.org/data/BBC_World_Service.rdf Size: 45
+Programmes:	http://www.bbc.co.uk/programmes/p0096hk6	http://www.bbc.co.uk/programmes/p0096hk6.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/p0096hk6.rdf Size: 44
+
+
+# Stuart Lee
+# Stuart_Lee	http://en.wikipedia.org/wiki/Stuart_Lee	http://dbpedia.org/data/Stuart_Lee.rdf
+# Loading RDF: http://dbpedia.org/data/Stuart_Lee.rdf Size: 38
+Programmes:	http://www.bbc.co.uk/programmes/b00tj83g	http://www.bbc.co.uk/programmes/b00tj83g.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00tj83g.rdf Size: 44
+
+
+# Mr. Benn
+# Mr_Benn	http://en.wikipedia.org/wiki/Mr_Benn	http://dbpedia.org/data/Mr_Benn.rdf
+# Loading RDF: http://dbpedia.org/data/Mr_Benn.rdf Size: 35
+Programmes:	http://www.bbc.co.uk/programmes/b00r4t3s	http://www.bbc.co.uk/programmes/b00r4t3s.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00r4t3s.rdf Size: 44
+
+
+# Casualty
+# Casualty	http://en.wikipedia.org/wiki/Casualty	http://dbpedia.org/data/Casualty.rdf
+# Loading RDF: http://dbpedia.org/data/Casualty.rdf Size: 36
+Programmes:	http://www.bbc.co.uk/programmes/b006m8wd	http://www.bbc.co.uk/programmes/b006m8wd.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b006m8wd.rdf Size: 44
+
+
+# 6 Music
+# BBC_6_Music	http://en.wikipedia.org/wiki/BBC_6_Music	http://dbpedia.org/data/BBC_6_Music.rdf
+# Loading RDF: http://dbpedia.org/data/BBC_6_Music.rdf Size: 39
+Programmes:	https://www.bbc.co.uk/programmes/b00876k2	http://www.bbc.co.uk/programmes/b00876k2.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00876k2.rdf Size: 44
+
+
+# Glastonbury
+# Glastonbury_Festival	http://en.wikipedia.org/wiki/Glastonbury_Festival	http://dbpedia.org/data/Glastonbury_Festival.rdf
+# Loading RDF: http://dbpedia.org/data/Glastonbury_Festival.rdf Size: 48
+Programmes:	http://www.bbc.co.uk/programmes/b007r6vx	http://www.bbc.co.uk/programmes/b007r6vx.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b007r6vx.rdf Size: 44
+
+
+# Horrible Histories
+# Horrible_Histories	http://en.wikipedia.org/wiki/Horrible_Histories	http://dbpedia.org/data/Horrible_Histories.rdf
+# Loading RDF: http://dbpedia.org/data/Horrible_Histories.rdf Size: 46
+Programmes:	http://www.bbc.co.uk/programmes/b00k2xb1	http://www.bbc.co.uk/programmes/b00k2xb1.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00k2xb1.rdf Size: 44
+
+
+# Dennis Potter
+# Dennis_Potter	http://en.wikipedia.org/wiki/Dennis_Potter	http://dbpedia.org/data/Dennis_Potter.rdf
+# Loading RDF: http://dbpedia.org/data/Dennis_Potter.rdf Size: 41
+Programmes:	https://www.bbc.co.uk/programmes/b00gn345	http://www.bbc.co.uk/programmes/b00gn345.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00gn345.rdf Size: 44
+
+
+# CBeebies
+# CBeebies	http://en.wikipedia.org/wiki/CBeebies	http://dbpedia.org/data/CBeebies.rdf
+# Loading RDF: http://dbpedia.org/data/CBeebies.rdf Size: 36
+Programmes:	http://www.bbc.co.uk/programmes/b00phfl8	http://www.bbc.co.uk/programmes/b00phfl8.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00phfl8.rdf Size: 44
+
+
+# Quatermass
+# Bernard_Quatermass	http://en.wikipedia.org/wiki/Bernard_Quatermass	http://dbpedia.org/data/Bernard_Quatermass.rdf
+# Loading RDF: http://dbpedia.org/data/Bernard_Quatermass.rdf Size: 46
+Programmes:	http://www.bbc.co.uk/programmes/b007y4fk	http://www.bbc.co.uk/programmes/b007y4fk.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b007y4fk.rdf Size: 44
+
+
+# Two Ronnies
+# The_Two_Ronnies	http://en.wikipedia.org/wiki/The_Two_Ronnies	http://dbpedia.org/data/The_Two_Ronnies.rdf
+# Loading RDF: http://dbpedia.org/data/The_Two_Ronnies.rdf Size: 43
+Programmes:	http://www.bbc.co.uk/programmes/p007kynw	http://www.bbc.co.uk/programmes/p007kynw.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/p007kynw.rdf Size: 44
+
+
+# The Thick of It
+# The_Thick_of_It	http://en.wikipedia.org/wiki/The_Thick_of_It	http://dbpedia.org/data/The_Thick_of_It.rdf
+# Loading RDF: http://dbpedia.org/data/The_Thick_of_It.rdf Size: 43
+Programmes:	http://www.bbc.co.uk/programmes/b006qgrd	http://www.bbc.co.uk/programmes/b006qgrd.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b006qgrd.rdf Size: 44
+
+
+# Radio 3
+# BBC_Radio_3	http://en.wikipedia.org/wiki/BBC_Radio_3	http://dbpedia.org/data/BBC_Radio_3.rdf
+# Loading RDF: http://dbpedia.org/data/BBC_Radio_3.rdf Size: 39
+Programmes:	http://www.bbc.co.uk/programmes/b006tp7r	http://www.bbc.co.uk/programmes/b006tp7r.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b006tp7r.rdf Size: 44
+
+
+# Open University
+# Open_University	http://en.wikipedia.org/wiki/Open_University	http://dbpedia.org/data/Open_University.rdf
+# Loading RDF: http://dbpedia.org/data/Open_University.rdf Size: 43
+Programmes:	http://www.bbc.co.uk/programmes/b00lz2p5	http://www.bbc.co.uk/programmes/b00lz2p5.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00lz2p5.rdf Size: 44
+
+
+# Kermode and Mayo
+# Mark_Kermode	http://en.wikipedia.org/wiki/Mark_Kermode	http://dbpedia.org/data/Mark_Kermode.rdf
+# Loading RDF: http://dbpedia.org/data/Mark_Kermode.rdf Size: 40
+Programmes:	http://www.bbc.co.uk/programmes/b00lvdrj	http://www.bbc.co.uk/programmes/b00lvdrj.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00lvdrj.rdf Size: 44
+
+
+# Round The Horne
+# Round_the_Horne	http://en.wikipedia.org/wiki/Round_the_Horne	http://dbpedia.org/data/Round_the_Horne.rdf
+# Loading RDF: http://dbpedia.org/data/Round_the_Horne.rdf Size: 43
+Programmes:	http://www.bbc.co.uk/programmes/b00c7q4l	http://www.bbc.co.uk/programmes/b00c7q4l.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00c7q4l.rdf Size: 44
+
+
+# The Goon Show
+# The_Goon_Show	http://en.wikipedia.org/wiki/The_Goon_Show	http://dbpedia.org/data/The_Goon_Show.rdf
+# Loading RDF: http://dbpedia.org/data/The_Goon_Show.rdf Size: 41
+Programmes:	https://www.bbc.co.uk/programmes/b0072vdz	http://www.bbc.co.uk/programmes/b0072vdz.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b0072vdz.rdf Size: 44
+
+
+# Blake's 7
+# Blake's_7	http://en.wikipedia.org/wiki/Blake's_7	http://dbpedia.org/data/Blake's_7.rdf
+# Loading RDF: http://dbpedia.org/data/Blake's_7.rdf Size: 37
+Programmes:	http://www.bbc.co.uk/programmes/b00d28pd	http://www.bbc.co.uk/programmes/b00d28pd.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00d28pd.rdf Size: 44
+
+
+# Dick & Dom
+# Dick_and_Dom_in_da_Bungalow	http://en.wikipedia.org/wiki/Dick_and_Dom_in_da_Bungalow	http://dbpedia.org/data/Dick_and_Dom_in_da_Bungalow.rdf
+# Loading RDF: http://dbpedia.org/data/Dick_and_Dom_in_da_Bungalow.rdf Size: 55
+Programmes:	https://www.bbc.co.uk/programmes/b00gqf87	http://www.bbc.co.uk/programmes/b00gqf87.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00gqf87.rdf Size: 44
+
+
+# Last Night Of The Proms
+# The_Proms	http://en.wikipedia.org/wiki/The_Proms	http://dbpedia.org/data/The_Proms.rdf
+# Loading RDF: http://dbpedia.org/data/The_Proms.rdf Size: 37
+Programmes:	https://www.bbc.co.uk/programmes/b00tqt0w	http://www.bbc.co.uk/programmes/b00tqt0w.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00tqt0w.rdf Size: 44
+
+
+# Gardeners' Question Time
+# Gardeners'_Question_Time	http://en.wikipedia.org/wiki/Gardeners'_Question_Time	http://dbpedia.org/data/Gardeners'_Question_Time.rdf
+# Loading RDF: http://dbpedia.org/data/Gardeners'_Question_Time.rdf Size: 52
+Programmes:	http://www.bbc.co.uk/programmes/b006qp2f	http://www.bbc.co.uk/programmes/b006qp2f.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b006qp2f.rdf Size: 44
+
+
+# Last Of The Summer Wine
+# Last_of_the_Summer_Wine	http://en.wikipedia.org/wiki/Last_of_the_Summer_Wine	http://dbpedia.org/data/Last_of_the_Summer_Wine.rdf
+# Loading RDF: http://dbpedia.org/data/Last_of_the_Summer_Wine.rdf Size: 51
+Programmes:	http://www.bbc.co.uk/programmes/b00tld8s	http://www.bbc.co.uk/programmes/b00tld8s.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00tld8s.rdf Size: 44
+
+
+# Steptoe & Son
+# Steptoe_and_Son	http://en.wikipedia.org/wiki/Steptoe_and_Son	http://dbpedia.org/data/Steptoe_and_Son.rdf
+# Loading RDF: http://dbpedia.org/data/Steptoe_and_Son.rdf Size: 43
+Programmes:	http://www.bbc.co.uk/programmes/b009tw34	http://www.bbc.co.uk/programmes/b009tw34.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b009tw34.rdf Size: 44
+
+
+# The Clangers
+# Clangers	http://en.wikipedia.org/wiki/Clangers	http://dbpedia.org/data/Clangers.rdf
+# Loading RDF: http://dbpedia.org/data/Clangers.rdf Size: 36
+Programmes:	http://www.bbc.co.uk/programmes/b00pht5q	http://www.bbc.co.uk/programmes/b00pht5q.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00pht5q.rdf Size: 44
+
+
+# The Young Ones
+# The_Young_Ones_(TV_series)	http://en.wikipedia.org/wiki/The_Young_Ones_(TV_series)	http://dbpedia.org/data/The_Young_Ones_(TV_series).rdf
+# Loading RDF: http://dbpedia.org/data/The_Young_Ones_(TV_series).rdf Size: 54
+Programmes:	http://www.bbc.co.uk/programmes/b00tq4d3	http://www.bbc.co.uk/programmes/b00tq4d3.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00tq4d3.rdf Size: 44
+
+
+# Edge Of Darkness
+# Edge_of_Darkness_(2010_film)	http://en.wikipedia.org/wiki/Edge_of_Darkness_(2010_film)	http://dbpedia.org/data/Edge_of_Darkness_(2010_film).rdf
+# Loading RDF: http://dbpedia.org/data/Edge_of_Darkness_(2010_film).rdf Size: 56
+Programmes:	https://www.bbc.co.uk/programmes/b00q9g65	http://www.bbc.co.uk/programmes/b00q9g65.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00q9g65.rdf Size: 44
+
+
+# Tinker Tailor Soldier Spy
+# Tinker,_Tailor,_Soldier,_Spy	http://en.wikipedia.org/wiki/Tinker,_Tailor,_Soldier,_Spy	http://dbpedia.org/data/Tinker,_Tailor,_Soldier,_Spy.rdf
+# Loading RDF: http://dbpedia.org/data/Tinker,_Tailor,_Soldier,_Spy.rdf Size: 56
+Programmes:	https://www.bbc.co.uk/programmes/b00p1fj2	http://www.bbc.co.uk/programmes/b00p1fj2.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00p1fj2.rdf Size: 44
+
+
+# Letter From America
+# Letter_from_America	http://en.wikipedia.org/wiki/Letter_from_America	http://dbpedia.org/data/Letter_from_America.rdf
+# Loading RDF: http://dbpedia.org/data/Letter_from_America.rdf Size: 47
+Programmes:	http://www.bbc.co.uk/programmes/b00f6hbp	http://www.bbc.co.uk/programmes/b00f6hbp.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00f6hbp.rdf Size: 44
+
+
+# The Mighty Boosh
+# The_Mighty_Boosh	http://en.wikipedia.org/wiki/The_Mighty_Boosh	http://dbpedia.org/data/The_Mighty_Boosh.rdf
+# Loading RDF: http://dbpedia.org/data/The_Mighty_Boosh.rdf Size: 44
+Programmes:	http://www.bbc.co.uk/programmes/b007wds5	http://www.bbc.co.uk/programmes/b007wds5.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b007wds5.rdf Size: 44
+
+
+# QI
+# Qi	http://en.wikipedia.org/wiki/Qi	http://dbpedia.org/data/Qi.rdf
+# Loading RDF: http://dbpedia.org/data/Qi.rdf Size: 30
+Programmes:	http://www.bbc.co.uk/programmes/b006ml0g	http://www.bbc.co.uk/programmes/b006ml0g.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b006ml0g.rdf Size: 44
+
+
+# Panorama
+# Panorama	http://en.wikipedia.org/wiki/Panorama	http://dbpedia.org/data/Panorama.rdf
+# Loading RDF: http://dbpedia.org/data/Panorama.rdf Size: 36
+Programmes:	http://www.bbc.co.uk/programmes/b006t14n	http://www.bbc.co.uk/programmes/b006t14n.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b006t14n.rdf Size: 44
+
+
+# Bagpuss
+# Bagpuss	http://en.wikipedia.org/wiki/Bagpuss	http://dbpedia.org/data/Bagpuss.rdf
+# Loading RDF: http://dbpedia.org/data/Bagpuss.rdf Size: 35
+Programmes:	http://www.bbc.co.uk/programmes/b00pht5q	http://www.bbc.co.uk/programmes/b00pht5q.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00pht5q.rdf Size: 44
+
+
+# I Claudius
+# I,_Claudius	http://en.wikipedia.org/wiki/I,_Claudius	http://dbpedia.org/data/I,_Claudius.rdf
+# Loading RDF: http://dbpedia.org/data/I,_Claudius.rdf Size: 39
+Programmes:	https://www.bbc.co.uk/programmes/b009ykyf	http://www.bbc.co.uk/programmes/b009ykyf.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b009ykyf.rdf Size: 44
+
+
+# Absolutely Fabulous
+# Absolutely_Fabulous	http://en.wikipedia.org/wiki/Absolutely_Fabulous	http://dbpedia.org/data/Absolutely_Fabulous.rdf
+# Loading RDF: http://dbpedia.org/data/Absolutely_Fabulous.rdf Size: 47
+Programmes:	http://www.bbc.co.uk/programmes/b00jm3ms	http://www.bbc.co.uk/programmes/b00jm3ms.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00jm3ms.rdf Size: 44
+
+
+# John Motson
+# John_Motson	http://en.wikipedia.org/wiki/John_Motson	http://dbpedia.org/data/John_Motson.rdf
+# Loading RDF: http://dbpedia.org/data/John_Motson.rdf Size: 39
+Programmes:	http://www.bbc.co.uk/programmes/b00spjzq	http://www.bbc.co.uk/programmes/b00spjzq.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00spjzq.rdf Size: 44
+
+
+# Red Dwarf
+# Red_Dwarf	http://en.wikipedia.org/wiki/Red_Dwarf	http://dbpedia.org/data/Red_Dwarf.rdf
+# Loading RDF: http://dbpedia.org/data/Red_Dwarf.rdf Size: 37
+Programmes:	http://www.bbc.co.uk/programmes/b00q08ss	http://www.bbc.co.uk/programmes/b00q08ss.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00q08ss.rdf Size: 44
+
+
+# Our Friends in the North
+# Our_Friends_in_the_North	http://en.wikipedia.org/wiki/Our_Friends_in_the_North	http://dbpedia.org/data/Our_Friends_in_the_North.rdf
+# Loading RDF: http://dbpedia.org/data/Our_Friends_in_the_North.rdf Size: 52
+Programmes:	http://www.bbc.co.uk/programmes/b00rdtnn	http://www.bbc.co.uk/programmes/b00rdtnn.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00rdtnn.rdf Size: 44
+
+
+# Culture Show
+# The_Culture_Show	http://en.wikipedia.org/wiki/The_Culture_Show	http://dbpedia.org/data/The_Culture_Show.rdf
+# Loading RDF: http://dbpedia.org/data/The_Culture_Show.rdf Size: 44
+Programmes:	http://www.bbc.co.uk/programmes/b00r8fkz	http://www.bbc.co.uk/programmes/b00r8fkz.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00r8fkz.rdf Size: 44
+
+
+# Woman's Hour 
+# Woman's_Hour	http://en.wikipedia.org/wiki/Woman's_Hour	http://dbpedia.org/data/Woman's_Hour.rdf
+# Loading RDF: http://dbpedia.org/data/Woman's_Hour.rdf Size: 40
+Programmes:	http://www.bbc.co.uk/programmes/b007qlvb	http://www.bbc.co.uk/programmes/b007qlvb.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b007qlvb.rdf Size: 44
+
+
+# Charlie and Lola
+# Charlie_and_Lola	http://en.wikipedia.org/wiki/Charlie_and_Lola	http://dbpedia.org/data/Charlie_and_Lola.rdf
+# Loading RDF: http://dbpedia.org/data/Charlie_and_Lola.rdf Size: 44
+Programmes:	http://www.bbc.co.uk/programmes/b0070s19	http://www.bbc.co.uk/programmes/b0070s19.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b0070s19.rdf Size: 44
+
+
+# Alan Partridge
+# Alan_Partridge	http://en.wikipedia.org/wiki/Alan_Partridge	http://dbpedia.org/data/Alan_Partridge.rdf
+# Loading RDF: http://dbpedia.org/data/Alan_Partridge.rdf Size: 42
+Programmes:	http://www.bbc.co.uk/programmes/b00hxqcx	http://www.bbc.co.uk/programmes/b00hxqcx.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00hxqcx.rdf Size: 44
+
+
+# Sherlock 
+# Sherlock_(TV_series)	http://en.wikipedia.org/wiki/Sherlock_(TV_series)	http://dbpedia.org/data/Sherlock_(TV_series).rdf
+# Loading RDF: http://dbpedia.org/data/Sherlock_(TV_series).rdf Size: 48
+Programmes:	http://www.bbc.co.uk/programmes/b00t4pgh	http://www.bbc.co.uk/programmes/b00t4pgh.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00t4pgh.rdf Size: 44
+
+
+# News At Six O'Clock
+# Six_O'Clock_News	http://en.wikipedia.org/wiki/Six_O'Clock_News	http://dbpedia.org/data/Six_O'Clock_News.rdf
+# Loading RDF: http://dbpedia.org/data/Six_O'Clock_News.rdf Size: 44
+Programmes:	http://www.bbc.co.uk/programmes/b006qjxt	http://www.bbc.co.uk/programmes/b006qjxt.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b006qjxt.rdf Size: 44
+
+
+# Live Aid
+# Live_Aid	http://en.wikipedia.org/wiki/Live_Aid	http://dbpedia.org/data/Live_Aid.rdf
+# Loading RDF: http://dbpedia.org/data/Live_Aid.rdf Size: 36
+Programmes:	http://www.bbc.co.uk/programmes/b00t4d5q	http://www.bbc.co.uk/programmes/b00t4d5q.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00t4d5q.rdf Size: 44
+
+
+# Likely Lads
+# The_Likely_Lads	http://en.wikipedia.org/wiki/The_Likely_Lads	http://dbpedia.org/data/The_Likely_Lads.rdf
+# Loading RDF: http://dbpedia.org/data/The_Likely_Lads.rdf Size: 43
+Programmes:	http://www.bbc.co.uk/programmes/b007d62d	http://www.bbc.co.uk/programmes/b007d62d.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b007d62d.rdf Size: 44
+
+
+# Michael Palin
+# Michael_Palin	http://en.wikipedia.org/wiki/Michael_Palin	http://dbpedia.org/data/Michael_Palin.rdf
+# Loading RDF: http://dbpedia.org/data/Michael_Palin.rdf Size: 41
+Programmes:	http://www.bbc.co.uk/programmes/b0074kys	http://www.bbc.co.uk/programmes/b0074kys.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b0074kys.rdf Size: 44
+
+
+# This Life 
+# This_Life	http://en.wikipedia.org/wiki/This_Life	http://dbpedia.org/data/This_Life.rdf
+# Loading RDF: http://dbpedia.org/data/This_Life.rdf Size: 37
+Programmes:	http://www.bbc.co.uk/programmes/b00n6x7v	http://www.bbc.co.uk/programmes/b00n6x7v.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00n6x7v.rdf Size: 44
+
+
+# That's Life
+# That's_Life!	http://en.wikipedia.org/wiki/That's_Life!	http://dbpedia.org/data/That's_Life!.rdf
+# Loading RDF: http://dbpedia.org/data/That's_Life!.rdf Size: 40
+Programmes:	http://www.bbc.co.uk/programmes/p0085nx5?page=10	http://www.bbc.co.uk/programmes/p0085nx5?page=10.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/p0085nx5?page=10.rdf Size: 52
+
+
+# Life On Earth
+# Life_on_Earth_(TV_series)	http://en.wikipedia.org/wiki/Life_on_Earth_(TV_series)	http://dbpedia.org/data/Life_on_Earth_(TV_series).rdf
+# Loading RDF: http://dbpedia.org/data/Life_on_Earth_(TV_series).rdf Size: 53
+Programmes:	http://www.bbc.co.uk/programmes/p002wnhw	http://www.bbc.co.uk/programmes/p002wnhw.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/p002wnhw.rdf Size: 44
+
+
+# The Good Life
+# The_Good_Life	http://en.wikipedia.org/wiki/The_Good_Life	http://dbpedia.org/data/The_Good_Life.rdf
+# Loading RDF: http://dbpedia.org/data/The_Good_Life.rdf Size: 41
+Programmes:	http://www.bbc.co.uk/programmes/b00732tl	http://www.bbc.co.uk/programmes/b00732tl.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00732tl.rdf Size: 44
+
+
+# Captain Pugwash
+# Captain_Pugwash	http://en.wikipedia.org/wiki/Captain_Pugwash	http://dbpedia.org/data/Captain_Pugwash.rdf
+# Loading RDF: http://dbpedia.org/data/Captain_Pugwash.rdf Size: 43
+Programmes:	http://www.bbc.co.uk/programmes/b0074rb0	http://www.bbc.co.uk/programmes/b0074rb0.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b0074rb0.rdf Size: 44
+
+
+# Tony Hart
+# Tony_Hart	http://en.wikipedia.org/wiki/Tony_Hart	http://dbpedia.org/data/Tony_Hart.rdf
+# Loading RDF: http://dbpedia.org/data/Tony_Hart.rdf Size: 37
+Programmes:	http://www.bbc.co.uk/programmes/b006m9cb/episodes/2009	http://www.bbc.co.uk/programmes/b006m9cb/episodes/2009.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Til Death Do Us Part
+# Till_Death_Us_Do_Part_(British_TV_series)	http://en.wikipedia.org/wiki/Till_Death_Us_Do_Part_(British_TV_series)	http://dbpedia.org/data/Till_Death_Us_Do_Part_(British_TV_series).rdf
+# Loading RDF: http://dbpedia.org/data/Till_Death_Us_Do_Part_(British_TV_series).rdf Size: 69
+Programmes:	http://www.bbc.co.uk/programmes/b00p4klr	http://www.bbc.co.uk/programmes/b00p4klr.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00p4klr.rdf Size: 44
+
+
+# Ken Bruce
+# Ken_Bruce	http://en.wikipedia.org/wiki/Ken_Bruce	http://dbpedia.org/data/Ken_Bruce.rdf
+# Loading RDF: http://dbpedia.org/data/Ken_Bruce.rdf Size: 37
+Programmes:	https://www.bbc.co.uk/programmes/b006wr34	http://www.bbc.co.uk/programmes/b006wr34.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b006wr34.rdf Size: 44
+
+
+# News Quiz
+# The_News_Quiz	http://en.wikipedia.org/wiki/The_News_Quiz	http://dbpedia.org/data/The_News_Quiz.rdf
+# Loading RDF: http://dbpedia.org/data/The_News_Quiz.rdf Size: 41
+Programmes:	http://www.bbc.co.uk/programmes/b006r9yq	http://www.bbc.co.uk/programmes/b006r9yq.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b006r9yq.rdf Size: 44
+
+
+# Keeping Up Appearances
+# Keeping_Up_Appearances	http://en.wikipedia.org/wiki/Keeping_Up_Appearances	http://dbpedia.org/data/Keeping_Up_Appearances.rdf
+# Loading RDF: http://dbpedia.org/data/Keeping_Up_Appearances.rdf Size: 50
+Programmes:	https://www.bbc.co.uk/programmes/b006xtbg	http://www.bbc.co.uk/programmes/b006xtbg.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b006xtbg.rdf Size: 44
+
+
+# Outnumbered
+# Outnumbered	http://en.wikipedia.org/wiki/Outnumbered	http://dbpedia.org/data/Outnumbered.rdf
+# Loading RDF: http://dbpedia.org/data/Outnumbered.rdf Size: 39
+Programmes:	http://www.bbc.co.uk/programmes/b00fq31t	http://www.bbc.co.uk/programmes/b00fq31t.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00fq31t.rdf Size: 44
+
+
+# Miranda
+# Miranda_warning	http://en.wikipedia.org/wiki/Miranda_warning	http://dbpedia.org/data/Miranda_warning.rdf
+# Loading RDF: http://dbpedia.org/data/Miranda_warning.rdf Size: 43
+Programmes:	http://www.bbc.co.uk/programmes/b00nzytf	http://www.bbc.co.uk/programmes/b00nzytf.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00nzytf.rdf Size: 44
+
+
+# Who Do You Think You Are
+# Who_Do_You_Think_You_Are%3F	http://en.wikipedia.org/wiki/Who_Do_You_Think_You_Are%3F	http://dbpedia.org/data/Who_Do_You_Think_You_Are%3F.rdf
+# Loading RDF: http://dbpedia.org/data/Who_Do_You_Think_You_Are%3F.rdf Size: 55
+Programmes:	http://www.bbc.co.uk/programmes/b007t575	http://www.bbc.co.uk/programmes/b007t575.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b007t575.rdf Size: 44
+
+
+# Kirsty Wark
+# Kirsty_Wark	http://en.wikipedia.org/wiki/Kirsty_Wark	http://dbpedia.org/data/Kirsty_Wark.rdf
+# Loading RDF: http://dbpedia.org/data/Kirsty_Wark.rdf Size: 39
+Programmes:	https://www.bbc.co.uk/programmes/b00hd2dl	http://www.bbc.co.uk/programmes/b00hd2dl.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00hd2dl.rdf Size: 44
+
+
+# Paxman
+# Jeremy_Paxman	http://en.wikipedia.org/wiki/Jeremy_Paxman	http://dbpedia.org/data/Jeremy_Paxman.rdf
+# Loading RDF: http://dbpedia.org/data/Jeremy_Paxman.rdf Size: 41
+Programmes:	http://www.bbc.co.uk/programmes/b00s67vd	http://www.bbc.co.uk/programmes/b00s67vd.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00s67vd.rdf Size: 44
+
+
+# Parkinson
+# Parkinson's_disease	http://en.wikipedia.org/wiki/Parkinson's_disease	http://dbpedia.org/data/Parkinson's_disease.rdf
+# Loading RDF: http://dbpedia.org/data/Parkinson's_disease.rdf Size: 47
+Programmes:	http://www.bbc.co.uk/programmes/b00sqvpy	http://www.bbc.co.uk/programmes/b00sqvpy.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00sqvpy.rdf Size: 44
+
+
+# Wogan
+# Terry_Wogan	http://en.wikipedia.org/wiki/Terry_Wogan	http://dbpedia.org/data/Terry_Wogan.rdf
+# Loading RDF: http://dbpedia.org/data/Terry_Wogan.rdf Size: 39
+Programmes:	http://www.bbc.co.uk/programmes/b00qgw59	http://www.bbc.co.uk/programmes/b00qgw59.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00qgw59.rdf Size: 44
+
+
+# Tripods
+# The_Tripods	http://en.wikipedia.org/wiki/The_Tripods	http://dbpedia.org/data/The_Tripods.rdf
+# Loading RDF: http://dbpedia.org/data/The_Tripods.rdf Size: 39
+Programmes:	http://www.bbc.co.uk/programmes/b00t16pw	http://www.bbc.co.uk/programmes/b00t16pw.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00t16pw.rdf Size: 44
+
+
+# Fireman Sam
+# Fireman_Sam	http://en.wikipedia.org/wiki/Fireman_Sam	http://dbpedia.org/data/Fireman_Sam.rdf
+# Loading RDF: http://dbpedia.org/data/Fireman_Sam.rdf Size: 39
+Programmes:	http://www.bbc.co.uk/programmes/b006mh0k	http://www.bbc.co.uk/programmes/b006mh0k.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b006mh0k.rdf Size: 44
+
+
+# The Ascent Of Man
+# The_Ascent_of_Man	http://en.wikipedia.org/wiki/The_Ascent_of_Man	http://dbpedia.org/data/The_Ascent_of_Man.rdf
+# Loading RDF: http://dbpedia.org/data/The_Ascent_of_Man.rdf Size: 45
+Programmes:	http://www.bbc.co.uk/programmes/b00hkl1y	http://www.bbc.co.uk/programmes/b00hkl1y.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00hkl1y.rdf Size: 44
+
+
+# One Foot In The Grave
+# One_Foot_in_the_Grave	http://en.wikipedia.org/wiki/One_Foot_in_the_Grave	http://dbpedia.org/data/One_Foot_in_the_Grave.rdf
+# Loading RDF: http://dbpedia.org/data/One_Foot_in_the_Grave.rdf Size: 49
+Programmes:	http://www.bbc.co.uk/programmes/b00bg34c	http://www.bbc.co.uk/programmes/b00bg34c.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00bg34c.rdf Size: 44
+
+
+# Ben & Xander
+# The_Weight_of_the_World_(Buffy_the_Vampire_Slayer)	http://en.wikipedia.org/wiki/The_Weight_of_the_World_(Buffy_the_Vampire_Slayer)	http://dbpedia.org/data/The_Weight_of_the_World_(Buffy_the_Vampire_Slayer).rdf
+# Loading RDF: http://dbpedia.org/data/The_Weight_of_the_World_(Buffy_the_Vampire_Slayer).rdf Size: 78
+Programmes:	http://www.bbc.co.uk/programmes/p008dqdf	http://www.bbc.co.uk/programmes/p008dqdf.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/p008dqdf.rdf Size: 44
+
+
+# Rob & Dave
+# Cyanide_and_Happiness	http://en.wikipedia.org/wiki/Cyanide_and_Happiness	http://dbpedia.org/data/Cyanide_and_Happiness.rdf
+# Loading RDF: http://dbpedia.org/data/Cyanide_and_Happiness.rdf Size: 49
+Programmes:	http://www.bbc.co.uk/programmes/b00trzqv	http://www.bbc.co.uk/programmes/b00trzqv.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00trzqv.rdf Size: 44
+
+
+# Antiques Roadshow
+# Antiques_Roadshow	http://en.wikipedia.org/wiki/Antiques_Roadshow	http://dbpedia.org/data/Antiques_Roadshow.rdf
+# Loading RDF: http://dbpedia.org/data/Antiques_Roadshow.rdf Size: 45
+Programmes:	https://www.bbc.co.uk/programmes/b006mj2y	http://www.bbc.co.uk/programmes/b006mj2y.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b006mj2y.rdf Size: 44
+
+
+# David Attenborough
+# David_Attenborough	http://en.wikipedia.org/wiki/David_Attenborough	http://dbpedia.org/data/David_Attenborough.rdf
+# Loading RDF: http://dbpedia.org/data/David_Attenborough.rdf Size: 46
+Programmes:	http://www.bbc.co.uk/programmes/b00krkgt	http://www.bbc.co.uk/programmes/b00krkgt.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00krkgt.rdf Size: 44
+
+
+# Strictly Come Dancing
+# Strictly_Come_Dancing	http://en.wikipedia.org/wiki/Strictly_Come_Dancing	http://dbpedia.org/data/Strictly_Come_Dancing.rdf
+# Loading RDF: http://dbpedia.org/data/Strictly_Come_Dancing.rdf Size: 49
+Programmes:	http://www.bbc.co.uk/programmes/b00tv4nl	http://www.bbc.co.uk/programmes/b00tv4nl.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# League of Gentlemen
+# The_League_of_Gentlemen	http://en.wikipedia.org/wiki/The_League_of_Gentlemen	http://dbpedia.org/data/The_League_of_Gentlemen.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	https://www.bbc.co.uk/programmes/b00vhfjn	http://www.bbc.co.uk/programmes/b00vhfjn.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Hairy Bikers
+# The_Hairy_Bikers	http://en.wikipedia.org/wiki/The_Hairy_Bikers	http://dbpedia.org/data/The_Hairy_Bikers.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00pymg1	http://www.bbc.co.uk/programmes/b00pymg1.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Being Human
+# Being_Human_(TV_series)	http://en.wikipedia.org/wiki/Being_Human_(TV_series)	http://dbpedia.org/data/Being_Human_(TV_series).rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00hqlc4	http://www.bbc.co.uk/programmes/b00hqlc4.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# In The Night Garden
+# In_the_Night_Garden	http://en.wikipedia.org/wiki/In_the_Night_Garden	http://dbpedia.org/data/In_the_Night_Garden.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	https://www.bbc.co.uk/programmes/b009gn1m	http://www.bbc.co.uk/programmes/b009gn1m.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Have I Got News For You
+# Have_I_Got_News_for_You	http://en.wikipedia.org/wiki/Have_I_Got_News_for_You	http://dbpedia.org/data/Have_I_Got_News_for_You.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b006mkw3	http://www.bbc.co.uk/programmes/b006mkw3.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# You & Me
+# From_Me_to_You	http://en.wikipedia.org/wiki/From_Me_to_You	http://dbpedia.org/data/From_Me_to_You.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b009tvxm	http://www.bbc.co.uk/programmes/b009tvxm.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Me & You
+# From_Me_to_You	http://en.wikipedia.org/wiki/From_Me_to_You	http://dbpedia.org/data/From_Me_to_You.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b009tvxm	http://www.bbc.co.uk/programmes/b009tvxm.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Monty Python
+# Monty_Python	http://en.wikipedia.org/wiki/Monty_Python	http://dbpedia.org/data/Monty_Python.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00p7195	http://www.bbc.co.uk/programmes/b00p7195.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00p7195.rdf Size: 44
+
+
+# Doctor Who
+# Doctor_Who	http://en.wikipedia.org/wiki/Doctor_Who	http://dbpedia.org/data/Doctor_Who.rdf
+# Loading RDF: http://dbpedia.org/data/Doctor_Who.rdf Size: 38
+Programmes:	http://www.bbc.co.uk/programmes/b00rs69w	http://www.bbc.co.uk/programmes/b00rs69w.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Top Gear
+# Top_Gear_(2002_TV_series)	http://en.wikipedia.org/wiki/Top_Gear_(2002_TV_series)	http://dbpedia.org/data/Top_Gear_(2002_TV_series).rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00p1lgb	http://www.bbc.co.uk/programmes/b00p1lgb.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Merlin
+# Merlin	http://en.wikipedia.org/wiki/Merlin	http://dbpedia.org/data/Merlin.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	https://www.bbc.co.uk/programmes/b00mjlxv	http://www.bbc.co.uk/programmes/b00mjlxv.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Ivor The Engine
+# Ivor_the_Engine	http://en.wikipedia.org/wiki/Ivor_the_Engine	http://dbpedia.org/data/Ivor_the_Engine.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b007mp6d	http://www.bbc.co.uk/programmes/b007mp6d.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Watchdog
+# Watchdog_timer	http://en.wikipedia.org/wiki/Watchdog_timer	http://dbpedia.org/data/Watchdog_timer.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b006mg74	http://www.bbc.co.uk/programmes/b006mg74.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Wimbledon 
+# The_Championships,_Wimbledon	http://en.wikipedia.org/wiki/The_Championships,_Wimbledon	http://dbpedia.org/data/The_Championships,_Wimbledon.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00t59yy	http://www.bbc.co.uk/programmes/b00t59yy.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Springwatch
+# Springwatch	http://en.wikipedia.org/wiki/Springwatch	http://dbpedia.org/data/Springwatch.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00stc7r	http://www.bbc.co.uk/programmes/b00stc7r.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Formula One
+# Formula_One	http://en.wikipedia.org/wiki/Formula_One	http://dbpedia.org/data/Formula_One.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b007m6lj	http://www.bbc.co.uk/programmes/b007m6lj.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Blue Peter Swap Shop
+# Basil_Brush	http://en.wikipedia.org/wiki/Basil_Brush	http://dbpedia.org/data/Basil_Brush.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b008vvt2	http://www.bbc.co.uk/programmes/b008vvt2.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Five Live
+# BBC_Radio_5_Live	http://en.wikipedia.org/wiki/BBC_Radio_5_Live	http://dbpedia.org/data/BBC_Radio_5_Live.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00lvdrj	http://www.bbc.co.uk/programmes/b00lvdrj.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Top Of The Pops
+# Top_of_the_Pops	http://en.wikipedia.org/wiki/Top_of_the_Pops	http://dbpedia.org/data/Top_of_the_Pops.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00pk7gq	http://www.bbc.co.uk/programmes/b00pk7gq.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Trumpton
+# Trumpton	http://en.wikipedia.org/wiki/Trumpton	http://dbpedia.org/data/Trumpton.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00tqjg5	http://www.bbc.co.uk/programmes/b00tqjg5.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# The Archers
+# The_Archers	http://en.wikipedia.org/wiki/The_Archers	http://dbpedia.org/data/The_Archers.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b006qpgr	http://www.bbc.co.uk/programmes/b006qpgr.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# That Was The Week That Was
+# That_Was_The_Week_That_Was	http://en.wikipedia.org/wiki/That_Was_The_Week_That_Was	http://dbpedia.org/data/That_Was_The_Week_That_Was.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b0084bld	http://www.bbc.co.uk/programmes/b0084bld.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# The Goodies
+# The_Goodies	http://en.wikipedia.org/wiki/The_Goodies	http://dbpedia.org/data/The_Goodies.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/p0085sjd	http://www.bbc.co.uk/programmes/p0085sjd.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Songs Of Praise
+# Songs_of_Praise	http://en.wikipedia.org/wiki/Songs_of_Praise	http://dbpedia.org/data/Songs_of_Praise.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b006ttc5	http://www.bbc.co.uk/programmes/b006ttc5.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# World At One
+# The_World_at_One	http://en.wikipedia.org/wiki/The_World_at_One	http://dbpedia.org/data/The_World_at_One.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b006qptc	http://www.bbc.co.uk/programmes/b006qptc.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# The Day Today
+# The_Day_Today	http://en.wikipedia.org/wiki/The_Day_Today	http://dbpedia.org/data/The_Day_Today.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/p006x8sk	http://www.bbc.co.uk/programmes/p006x8sk.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Sorry, I Haven't A Clue
+# I'm_Sorry_I_Haven't_a_Clue	http://en.wikipedia.org/wiki/I'm_Sorry_I_Haven't_a_Clue	http://dbpedia.org/data/I'm_Sorry_I_Haven't_a_Clue.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b006qnwb	http://www.bbc.co.uk/programmes/b006qnwb.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Not The Nine O'Clock News
+# Not_the_Nine_O'Clock_News	http://en.wikipedia.org/wiki/Not_the_Nine_O'Clock_News	http://dbpedia.org/data/Not_the_Nine_O'Clock_News.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00pl0w6	http://www.bbc.co.uk/programmes/b00pl0w6.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Nationwide
+# Nationwide_Mutual_Insurance_Company	http://en.wikipedia.org/wiki/Nationwide_Mutual_Insurance_Company	http://dbpedia.org/data/Nationwide_Mutual_Insurance_Company.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00hd2w7	http://www.bbc.co.uk/programmes/b00hd2w7.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Mr. Men
+# Mr._Men	http://en.wikipedia.org/wiki/Mr._Men	http://dbpedia.org/data/Mr._Men.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00qm467	http://www.bbc.co.uk/programmes/b00qm467.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Eastenders
+# EastEnders	http://en.wikipedia.org/wiki/EastEnders	http://dbpedia.org/data/EastEnders.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b006m86d	http://www.bbc.co.uk/programmes/b006m86d.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Bottom
+# Bottom_(TV_series)	http://en.wikipedia.org/wiki/Bottom_(TV_series)	http://dbpedia.org/data/Bottom_(TV_series).rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b006sz6t	http://www.bbc.co.uk/programmes/b006sz6t.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Gary Lineker
+# Gary_Lineker	http://en.wikipedia.org/wiki/Gary_Lineker	http://dbpedia.org/data/Gary_Lineker.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00tdlv9	http://www.bbc.co.uk/programmes/b00tdlv9.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Radio 1
+# BBC_Radio_1	http://en.wikipedia.org/wiki/BBC_Radio_1	http://dbpedia.org/data/BBC_Radio_1.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b006wq4s	http://www.bbc.co.uk/programmes/b006wq4s.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Radio 2
+# BBC_Radio_2	http://en.wikipedia.org/wiki/BBC_Radio_2	http://dbpedia.org/data/BBC_Radio_2.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	https://www.bbc.co.uk/programmes/b006wr34	http://www.bbc.co.uk/programmes/b006wr34.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Ripping Yarns
+# Ripping_Yarns	http://en.wikipedia.org/wiki/Ripping_Yarns	http://dbpedia.org/data/Ripping_Yarns.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b007ls8p	http://www.bbc.co.uk/programmes/b007ls8p.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Johhnny Ball
+# Johnny_Ball	http://en.wikipedia.org/wiki/Johnny_Ball	http://dbpedia.org/data/Johnny_Ball.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00jlcdz	http://www.bbc.co.uk/programmes/b00jlcdz.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Test Match Special
+# Test_Match_Special	http://en.wikipedia.org/wiki/Test_Match_Special	http://dbpedia.org/data/Test_Match_Special.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00fr0n5	http://www.bbc.co.uk/programmes/b00fr0n5.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Bergerac
+# Bergerac_(TV_series)	http://en.wikipedia.org/wiki/Bergerac_(TV_series)	http://dbpedia.org/data/Bergerac_(TV_series).rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b009jh4c	http://www.bbc.co.uk/programmes/b009jh4c.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Perfect Day
+# Perfect_Day	http://en.wikipedia.org/wiki/Perfect_Day	http://dbpedia.org/data/Perfect_Day.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00kpzcw	http://www.bbc.co.uk/programmes/b00kpzcw.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Radio Active
+# Radioactive_decay	http://en.wikipedia.org/wiki/Radioactive_decay	http://dbpedia.org/data/Radioactive_decay.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00c7zvk	http://www.bbc.co.uk/programmes/b00c7zvk.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Howard's Way
+# Howards'_Way	http://en.wikipedia.org/wiki/Howards'_Way	http://dbpedia.org/data/Howards'_Way.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b0091tc4	http://www.bbc.co.uk/programmes/b0091tc4.rdf
