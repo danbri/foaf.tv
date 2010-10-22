@@ -591,77 +591,61 @@ Programmes:	http://www.bbc.co.uk/programmes/b00krkgt	http://www.bbc.co.uk/progra
 # Strictly_Come_Dancing	http://en.wikipedia.org/wiki/Strictly_Come_Dancing	http://dbpedia.org/data/Strictly_Come_Dancing.rdf
 # Loading RDF: http://dbpedia.org/data/Strictly_Come_Dancing.rdf Size: 49
 Programmes:	http://www.bbc.co.uk/programmes/b00tv4nl	http://www.bbc.co.uk/programmes/b00tv4nl.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b00tv4nl.rdf Size: 44
 
 
 # League of Gentlemen
 # The_League_of_Gentlemen	http://en.wikipedia.org/wiki/The_League_of_Gentlemen	http://dbpedia.org/data/The_League_of_Gentlemen.rdf
-# Parsing barfed.
-# no rdf.
-Programmes:	https://www.bbc.co.uk/programmes/b00vhfjn	http://www.bbc.co.uk/programmes/b00vhfjn.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/The_League_of_Gentlemen.rdf Size: 51
+Programmes:	http://www.bbc.co.uk/programmes/b00vhfjn	http://www.bbc.co.uk/programmes/b00vhfjn.rdf
+# Loading RDF: http://www.bbc.co.uk/programmes/b00vhfjn.rdf Size: 44
 
 
 # Hairy Bikers
 # The_Hairy_Bikers	http://en.wikipedia.org/wiki/The_Hairy_Bikers	http://dbpedia.org/data/The_Hairy_Bikers.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/The_Hairy_Bikers.rdf Size: 44
 Programmes:	http://www.bbc.co.uk/programmes/b00pymg1	http://www.bbc.co.uk/programmes/b00pymg1.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b00pymg1.rdf Size: 44
 
 
 # Being Human
 # Being_Human_(TV_series)	http://en.wikipedia.org/wiki/Being_Human_(TV_series)	http://dbpedia.org/data/Being_Human_(TV_series).rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/Being_Human_(TV_series).rdf Size: 51
 Programmes:	http://www.bbc.co.uk/programmes/b00hqlc4	http://www.bbc.co.uk/programmes/b00hqlc4.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b00hqlc4.rdf Size: 44
 
 
 # In The Night Garden
 # In_the_Night_Garden	http://en.wikipedia.org/wiki/In_the_Night_Garden	http://dbpedia.org/data/In_the_Night_Garden.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/In_the_Night_Garden.rdf Size: 47
 Programmes:	https://www.bbc.co.uk/programmes/b009gn1m	http://www.bbc.co.uk/programmes/b009gn1m.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b009gn1m.rdf Size: 44
 
 
 # Have I Got News For You
 # Have_I_Got_News_for_You	http://en.wikipedia.org/wiki/Have_I_Got_News_for_You	http://dbpedia.org/data/Have_I_Got_News_for_You.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/Have_I_Got_News_for_You.rdf Size: 51
 Programmes:	http://www.bbc.co.uk/programmes/b006mkw3	http://www.bbc.co.uk/programmes/b006mkw3.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b006mkw3.rdf Size: 44
 
 
 # You & Me
 # From_Me_to_You	http://en.wikipedia.org/wiki/From_Me_to_You	http://dbpedia.org/data/From_Me_to_You.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/From_Me_to_You.rdf Size: 42
 Programmes:	http://www.bbc.co.uk/programmes/b009tvxm	http://www.bbc.co.uk/programmes/b009tvxm.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b009tvxm.rdf Size: 44
 
 
 # Me & You
 # From_Me_to_You	http://en.wikipedia.org/wiki/From_Me_to_You	http://dbpedia.org/data/From_Me_to_You.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/From_Me_to_You.rdf Size: 42
 Programmes:	http://www.bbc.co.uk/programmes/b009tvxm	http://www.bbc.co.uk/programmes/b009tvxm.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b009tvxm.rdf Size: 44
 
 
 # Monty Python
 # Monty_Python	http://en.wikipedia.org/wiki/Monty_Python	http://dbpedia.org/data/Monty_Python.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/Monty_Python.rdf Size: 40
 Programmes:	http://www.bbc.co.uk/programmes/b00p7195	http://www.bbc.co.uk/programmes/b00p7195.rdf
 # Loading RDF: http://www.bbc.co.uk/programmes/b00p7195.rdf Size: 44
 
@@ -670,71 +654,56 @@ Programmes:	http://www.bbc.co.uk/programmes/b00p7195	http://www.bbc.co.uk/progra
 # Doctor_Who	http://en.wikipedia.org/wiki/Doctor_Who	http://dbpedia.org/data/Doctor_Who.rdf
 # Loading RDF: http://dbpedia.org/data/Doctor_Who.rdf Size: 38
 Programmes:	http://www.bbc.co.uk/programmes/b00rs69w	http://www.bbc.co.uk/programmes/b00rs69w.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b00rs69w.rdf Size: 44
 
 
 # Top Gear
 # Top_Gear_(2002_TV_series)	http://en.wikipedia.org/wiki/Top_Gear_(2002_TV_series)	http://dbpedia.org/data/Top_Gear_(2002_TV_series).rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/Top_Gear_(2002_TV_series).rdf Size: 53
 Programmes:	http://www.bbc.co.uk/programmes/b00p1lgb	http://www.bbc.co.uk/programmes/b00p1lgb.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b00p1lgb.rdf Size: 44
 
 
 # Merlin
 # Merlin	http://en.wikipedia.org/wiki/Merlin	http://dbpedia.org/data/Merlin.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/Merlin.rdf Size: 34
 Programmes:	https://www.bbc.co.uk/programmes/b00mjlxv	http://www.bbc.co.uk/programmes/b00mjlxv.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b00mjlxv.rdf Size: 44
 
 
 # Ivor The Engine
 # Ivor_the_Engine	http://en.wikipedia.org/wiki/Ivor_the_Engine	http://dbpedia.org/data/Ivor_the_Engine.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/Ivor_the_Engine.rdf Size: 43
 Programmes:	http://www.bbc.co.uk/programmes/b007mp6d	http://www.bbc.co.uk/programmes/b007mp6d.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b007mp6d.rdf Size: 44
 
 
 # Watchdog
 # Watchdog_timer	http://en.wikipedia.org/wiki/Watchdog_timer	http://dbpedia.org/data/Watchdog_timer.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/Watchdog_timer.rdf Size: 42
 Programmes:	http://www.bbc.co.uk/programmes/b006mg74	http://www.bbc.co.uk/programmes/b006mg74.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b006mg74.rdf Size: 44
 
 
 # Wimbledon 
 # The_Championships,_Wimbledon	http://en.wikipedia.org/wiki/The_Championships,_Wimbledon	http://dbpedia.org/data/The_Championships,_Wimbledon.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/The_Championships,_Wimbledon.rdf Size: 56
 Programmes:	http://www.bbc.co.uk/programmes/b00t59yy	http://www.bbc.co.uk/programmes/b00t59yy.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b00t59yy.rdf Size: 44
 
 
 # Springwatch
 # Springwatch	http://en.wikipedia.org/wiki/Springwatch	http://dbpedia.org/data/Springwatch.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/Springwatch.rdf Size: 39
 Programmes:	http://www.bbc.co.uk/programmes/b00stc7r	http://www.bbc.co.uk/programmes/b00stc7r.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b00stc7r.rdf Size: 44
 
 
 # Formula One
 # Formula_One	http://en.wikipedia.org/wiki/Formula_One	http://dbpedia.org/data/Formula_One.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://dbpedia.org/data/Formula_One.rdf Size: 39
 Programmes:	http://www.bbc.co.uk/programmes/b007m6lj	http://www.bbc.co.uk/programmes/b007m6lj.rdf
-# Parsing barfed.
-# no rdf.
+# Loading RDF: http://www.bbc.co.uk/programmes/b007m6lj.rdf Size: 44
 
 
 # Blue Peter Swap Shop
@@ -967,3 +936,92 @@ Programmes:	http://www.bbc.co.uk/programmes/b00c7zvk	http://www.bbc.co.uk/progra
 # Parsing barfed.
 # no rdf.
 Programmes:	http://www.bbc.co.uk/programmes/b0091tc4	http://www.bbc.co.uk/programmes/b0091tc4.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Jeremy Hardy
+# Jeremy_Hardy	http://en.wikipedia.org/wiki/Jeremy_Hardy	http://dbpedia.org/data/Jeremy_Hardy.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00t2bvk	http://www.bbc.co.uk/programmes/b00t2bvk.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Final Score
+# Final_Score	http://en.wikipedia.org/wiki/Final_Score	http://dbpedia.org/data/Final_Score.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b006szrz	http://www.bbc.co.uk/programmes/b006szrz.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# BBC4
+# BBC_Four	http://en.wikipedia.org/wiki/BBC_Four	http://dbpedia.org/data/BBC_Four.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b0094j1x	http://www.bbc.co.uk/programmes/b0094j1x.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Only Fools and Horses
+# Only_Fools_and_Horses	http://en.wikipedia.org/wiki/Only_Fools_and_Horses	http://dbpedia.org/data/Only_Fools_and_Horses.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00qgrc7	http://www.bbc.co.uk/programmes/b00qgrc7.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Sky At Night
+# The_Sky_at_Night	http://en.wikipedia.org/wiki/The_Sky_at_Night	http://dbpedia.org/data/The_Sky_at_Night.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	https://www.bbc.co.uk/programmes/b006mk7h	http://www.bbc.co.uk/programmes/b006mk7h.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Shooting Stars
+# Shooting_Star	http://en.wikipedia.org/wiki/Shooting_Star	http://dbpedia.org/data/Shooting_Star.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00lt2wx	http://www.bbc.co.uk/programmes/b00lt2wx.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Pete & Dud 
+# Pete_and_Dud	http://en.wikipedia.org/wiki/Pete_and_Dud	http://dbpedia.org/data/Pete_and_Dud.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	https://www.bbc.co.uk/programmes/b00t3fj9	http://www.bbc.co.uk/programmes/b00t3fj9.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Teletubbies
+# Teletubbies	http://en.wikipedia.org/wiki/Teletubbies	http://dbpedia.org/data/Teletubbies.rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00703vg	http://www.bbc.co.uk/programmes/b00703vg.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Life On Mars
+# Life_on_Mars_(TV_series)	http://en.wikipedia.org/wiki/Life_on_Mars_(TV_series)	http://dbpedia.org/data/Life_on_Mars_(TV_series).rdf
+# Parsing barfed.
+# no rdf.
+Programmes:	http://www.bbc.co.uk/programmes/b00p1glh	http://www.bbc.co.uk/programmes/b00p1glh.rdf
+# Parsing barfed.
+# no rdf.
+
+
+# Radcliffe 
+# Radcliffe_College	http://en.wikipedia.org/wiki/Radcliffe_College	http://dbpedia.org/data/Radcliffe_College.rdf
+# Parsing barfed.
+# no rdf.
