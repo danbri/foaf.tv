@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby -rubygems
 
 require 'json'
+$stdout.sync = true
 
 # Takes a list of BBC-related things and gets some Wikipedia URLs
 # Source list is from http://mitchbenn.com/
@@ -31,14 +32,23 @@ f.each do |item|
   #
   wres = ` #{ wiki_qs.gsub(/zzzzz/, esc) } ` # umm
   wiki_feeling_lucky = JSON.parse(wres)['responseData']['results'][0]['unescapedUrl']
-  puts "#{  wiki_feeling_lucky}\t# Wiki";
+  wiki_feeling_lucky =~ /wikipedia\.org\/wiki\/(.*)/
+  wid = $1
+  puts "#{wid}\t#{  wiki_feeling_lucky}\tWiki\thttp://dbpedia.org/resource/#{wid}";
+
+
 
   # Find BBC /programmes/ links
   # (later, we can append .rdf to get metadata)
   #
   bres =` #{ bbc_qs.gsub(/zzzzz/, esc) } ` 
   bbc_feeling_lucky = JSON.parse(bres)['responseData']['results'][0]['unescapedUrl']
-  puts "Programmes:\t#{  bbc_feeling_lucky}\t# Wiki ";
+  bbc_feeling_lucky =~ /bbc\.co\.uk\/programmes\/(.*)/
+  bid = $1
+  puts "Programmes:\t#{  bbc_feeling_lucky}\tBBC\thttp://www.bbc.co.uk/programmes/#{bid}.rdf";
+  
+
+  
 
   puts 
 end
